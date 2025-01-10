@@ -52,8 +52,8 @@
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
-   cd cryptocurrency-dashboard
+   git clone https://github.com/jahnvisahni31/frontend-assignment
+   cd frontend-assignment
    ```
 
 2. Install dependencies:
