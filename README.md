@@ -1,4 +1,4 @@
-# Real-Time Cryptocurrency Dashboard
+# frontend-assignment
 
 🚀 A full-stack application providing real-time cryptocurrency statistics. The application fetches data from the CoinGecko API and displays it with an elegant, responsive design built using Vite.js and Tailwind CSS.
 
@@ -78,7 +78,7 @@
 
 ## Project Structure
 ```
-cryptocurrency-dashboard/
+frontend-assignment/
 ├── src/
 │   ├── components/
 │   ├── pages/
